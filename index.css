@@ -1,0 +1,35 @@
+.Gmail
+{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.logoGmail
+{
+    display: flex;
+    justify-content: center;
+}
+
+.barrederecherche
+{
+    display: flex;
+    justify-content: center;
+}
+
+.boutons
+{
+    display: flex;
+    justify-content: center;
+}
+
+.footerBG
+{
+    display: flex;
+    align-items: stretch;
+}
+
+a:link
+{
+    text-decoration:none;
+    color: black;
+}
